@@ -1,5 +1,3 @@
-
-
 let idMain = document.getElementById("main");
 let idButton = document.getElementById("submit");
 let steps = document.getElementById("steps");
